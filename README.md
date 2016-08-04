@@ -1,0 +1,2 @@
+# jquery.boom
+Jquery plugin
